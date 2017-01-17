@@ -1,0 +1,617 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"mail",
+				"mailEnvio"
+			],
+			[
+				"no",
+				"noticias"
+			],
+			[
+				"Pos",
+				"_POST"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"avance",
+				"avance-obra"
+			],
+			[
+				"arboleda",
+				"arboledalife"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"toggle",
+				"toggleMenu"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"magin-",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"te",
+				"text-shadow"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"FONT",
+				"font-weight"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"bak",
+				"background-size"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"wrap",
+				"flex-wrap"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"inli",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "intensivettt.sql",
+			"settings":
+			{
+				"buffer_size": 1,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "intensivettt.sql"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/intensivettt"
+	],
+	"file_history":
+	[
+		"/C/wamp/wampmanager.exe",
+		"/C/wamp/www/arnian/css/epoch_styles.css",
+		"/C/wamp/www/arnian/pruebas.js",
+		"/C/wamp/www/bajainn/wp-content/themes/bajainn/style.css",
+		"/C/wamp/www/arboleda/js/arboleda.js",
+		"/C/wamp/www/arboleda/css/arboledastyles.css",
+		"/C/Users/RICHARD/clientes/spinaca/plaza las brisas/index.php",
+		"/C/wamp/www/arboleda/departamentos.html",
+		"/C/wamp/www/afal/index.php",
+		"/C/Users/RICHARD/clientes/spinaca/Top_Nav_HTML/Responsive Guest Web Pages/Top_Nav_General.html",
+		"/C/wamp/www/arboleda/ccsprueba.css",
+		"/C/Users/RICHARD/Downloads/Campus WP/Resources/Premium Plugins/.htaccess",
+		"/C/Users/RICHARD/librerias de apoyo desarrollo de software/onepage-scroll-master/Demo/demo.html",
+		"/C/wamp/www/arboleda/css/onepage-scroll.css",
+		"/C/wamp/www/arboleda/js/jquery.onepage-scroll.min.js",
+		"/C/wamp/www/arboleda/info.php",
+		"/C/wamp/www/bonanza/sendmail.php",
+		"/C/wamp/www/vacacionesbaja/index.html",
+		"/C/wamp/www/lamesa/css/lamesastyles.css",
+		"/C/wamp/www/arnian/tracking.php",
+		"/C/wamp/www/arnian/users.php",
+		"/C/wamp/www/arnian/warehouse_entry.php",
+		"/C/wamp/www/arnian/index.php",
+		"/C/wamp/www/arnian/home.php",
+		"/C/wamp/www/arnian/scripts/aut_verifica.inc.php",
+		"/C/wamp/www/arnian/scripts/aut_config.inc.php",
+		"/C/wamp/www/arnian/scripts/aut_mensaje_error.inc.php",
+		"/C/wamp/www/arnian/scripts/aut_verifica.inc.phpOld",
+		"/C/wamp/www/arnian/menu/menu.php",
+		"/C/wamp/www/arnian/warehouse_entry2.php",
+		"/C/wamp/www/arnian/suppliers.php",
+		"/C/wamp/www/arnian/scan_entry2.php",
+		"/C/wamp/www/arnian/scan_entry.php",
+		"/C/wamp/www/arnian/savecartaporte.php",
+		"/C/wamp/www/arnian/save_entry2.php",
+		"/C/wamp/www/arnian/save_entry.php",
+		"/C/wamp/www/arnian/revision.php",
+		"/C/wamp/www/arnian/returns.php",
+		"/C/wamp/www/arnian/reports.php",
+		"/C/wamp/www/arnian/recovery.php",
+		"/C/wamp/www/arnian/pruebacontador.php",
+		"/C/wamp/www/arnian/prueba_mail.php",
+		"/C/wamp/www/arnian/prueba.php",
+		"/C/wamp/www/arnian/porcentajes.php",
+		"/C/wamp/www/arnian/numerofinal.php",
+		"/C/wamp/www/arnian/locations.php",
+		"/C/wamp/www/arnian/lading_claves.php",
+		"/C/wamp/www/arnian/imprime_resgitro.php",
+		"/C/wamp/www/arnian/imprime_registros.php",
+		"/C/wamp/www/arnian/imprime_registro3.php",
+		"/C/wamp/www/arnian/imprime_registro2f.php",
+		"/C/wamp/www/arnian/imprime_registro2.php",
+		"/C/wamp/www/arnian/imprime_registro.php",
+		"/C/wamp/www/arnian/imprime_etiquetas.php",
+		"/C/wamp/www/arnian/imprime_cliente2.php",
+		"/C/wamp/www/arnian/imprime_cliente.php",
+		"/C/wamp/www/arnian/idcliente.php",
+		"/C/wamp/www/arnian/guarda_entrega.php",
+		"/C/wamp/www/arnian/facturacion.php",
+		"/C/wamp/www/arnian/entry_prueba.php",
+		"/C/wamp/www/arnian/detalles.php",
+		"/C/wamp/www/arnian/destinos.php",
+		"/C/wamp/www/arnian/delivered.php",
+		"/C/wamp/www/arnian/codigos2.php",
+		"/C/wamp/www/arnian/codigos.php",
+		"/C/wamp/www/arnian/clients.php",
+		"/C/wamp/www/arnian/carta_porte.php",
+		"/C/wamp/www/arnian/carriers.php",
+		"/C/wamp/www/arnian/calcrev2.php",
+		"/C/wamp/www/arnian/calcrev.php",
+		"/C/wamp/www/arnian/bill_of_lading.php",
+		"/C/wamp/www/arnian/actualiza.php",
+		"/C/wamp/www/arnian/actcode.php",
+		"/C/wamp/www/arnian/scripts/epoch_classes.js",
+		"/C/wamp/www/arnian/scripts/class.phpmailer.php",
+		"/C/wamp/www/arnian/scripts/aut_logout.php",
+		"/C/wamp/www/arnian/clients.phpold"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"es",
+			"display: block;",
+			"menu",
+			"avance",
+			"galeria",
+			"next",
+			"info",
+			"easings",
+			".jcarousel",
+			"pagination",
+			"col-l",
+			".col-l",
+			"col-l",
+			"content",
+			"info",
+			"apar",
+			"cover",
+			"menu-opener",
+			"fa-circle-o",
+			"fa-bars",
+			"fa-chevron-down",
+			"fa fa-chevron-down",
+			"nav",
+			"col_1",
+			"el",
+			"e1",
+			"proyecto",
+			"sections",
+			"fullpage",
+			"efx2",
+			"efx1",
+			"section",
+			"fullpage",
+			"class=\"fixed\"",
+			"h3",
+			"h2",
+			"display",
+			"dbarnians"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<a href=\"\" class=\"btn-contacto\">FOTOGRAFIAS</a>\n           ",
+			"           <",
+			"6"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "intensivettt.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"auto_name": "intensivettt.sql",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/SQL/SQL.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "intensivettt.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
