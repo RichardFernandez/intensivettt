@@ -1,0 +1,5 @@
+commit a2817305a63a92a514613fd565653e84a4f8def5
+Author: Richard Fernandez <homogeneamarketing@gmail.com>
+Date:   Mon Jan 16 21:47:41 2017 -0800
+
+    inicio de proyecto archivos sin modificaciones
